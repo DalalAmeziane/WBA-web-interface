@@ -16,7 +16,7 @@ Accédez directement à l’interface web :
 
 ## Architecture
 
-![Schéma de l’architecture du système](docs/main interface.png)
+![Schéma de l’architecture du système](docs/main_interface.png)
 
 ## Technologies utilisées
 

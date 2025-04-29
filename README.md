@@ -7,6 +7,8 @@ Bienvenue sur l’interface Web Bluetooth pour la carte **STM32WBA**, développ�
 Accédez directement à l’interface web :
 [https://dalalameziane.github.io/WBA-web-interface/](https://dalalameziane.github.io/WBA-web-interface/)
 
+## Scan me ! ![CodeQR](docs/frame.png)
+
 ## Objectif du projet
 
 - Calcul de performance réseau de ST60 à l'aide de Iperf3.
